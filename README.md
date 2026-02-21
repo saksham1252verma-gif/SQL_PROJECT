@@ -9,7 +9,7 @@ By querying a massive database of job postings, I’ve extracted actionable insi
 
 Driven by a quest to navigate the data science job market more effectively, this project was born from a desire to pinpoint top-paying and in-demand skills in the data analyst job market.
 
-The data is based on [Luke Barousse's SQL Course](https://lukebarousse.com/sql). It contains detailed information on job titles, salaries, locations, and essential skills.
+The data contains detailed information on job titles, salaries, locations, and essential skills.
 
 # Tools I Used
 - **SQL:** The core of my analysis, allowing me to query the database and unearth critical insights.
